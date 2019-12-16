@@ -1,8 +1,11 @@
-# session-cleaner
-script for clean session in school 1337.
+# Session Cleaner
+
+A simple script to clean a session at 1337 school.
 
 ## How to use:
 
-> git clone https://github.com/salmiabdlali/session-cleaner.git <br>
-> cd session-cleaner <br>
-> sh run.sh <br>
+```bash
+$ git clone https://github.com/salmiabdlali/session-cleaner.git
+$ cd session-cleaner
+$ sh run.sh
+```
